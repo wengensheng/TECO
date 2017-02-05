@@ -1,0 +1,3 @@
+site	vegtype	inputfile	output_hour	output_daily	lat	Longitude	wsmax	wsmin	LAIMAX	LAIMIN	rdepth	Rootmax	Stemmax	SapR	SapS	SLA	GLmax	GRmax	Gsmax	stom_n	a1	Ds0	Vcmx0	extkU	xfang	alpha	Tau_Leaf	Tau_Wood	Tau_Root	Tau_F	Tau_C	Tau_Micro	Tau_SlowSOM	Tau_Passive	gddonset	Q10	Rl0	Rs0	Rr0	co2ca
+US-OAK	DEC	ORNL_forcing.txt	H1.TECO.OR.amb.csv	D1.TECO.OR.amb.csv	35.9	-84.3	36.6	0.2	4.5	0.1	90	500	1000	1	0.2	9.00E-03	1.20E-01	1.00E-01	5.00E-02	2	8	2000	4.50E-05	0.54	0	0.385	0.7	60	1.6	2.25	6.86	0.8	86.94	150	320.5	2	15.1	3.5	14.5	3.70E-04
+																																								
